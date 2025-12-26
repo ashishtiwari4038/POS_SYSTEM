@@ -1,0 +1,9 @@
+
+/bin/
+*.class
+
+
+Invoice_*.txt
+
+
+.DS_Store
